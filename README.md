@@ -1,6 +1,8 @@
 # appleTV_IR
 Arduino micro project to provide stereo volume knob functionality via infra-red remote.
 
+It's called AppleTV_IR because I created it to solve a problem I had with my AppleTV setup, but it is of course applicable to any audio situation.
+
 IR Remote library used : https://github.com/z3t0/Arduino-IRremote
 
 Datasheets for hardware found in /datasheets
